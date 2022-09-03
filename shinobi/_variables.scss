@@ -1,5 +1,7 @@
 // partial file is a file that starts with an underscore
 // partial files will be ignored by the sass compilers
+
+
 // theme colors
 $primary: #326dee;
 $secondary: #1ac888;
@@ -13,3 +15,9 @@ $base-margin: 0.75rem;
 // borders
 $base-border-thickness: 1px;
 $base-border-radius: 20px;
+
+// box-shadows
+$base-box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+
+// font sizes
+$base-font-size: 1rem;
